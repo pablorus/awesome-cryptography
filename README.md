@@ -66,7 +66,7 @@ A curated list of cryptography resources and links.
 
 - [3DES](https://en.wikipedia.org/wiki/Triple_DES) - Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
 - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - Symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).
-  - [Animation](http://www.formaestudio.com/rijndaelinspector/archivos/rijndaelanimation.html) - Animation of how AES (Rijndael) works.
+  - [AES Animation](http://www.formaestudio.com/rijndaelinspector/archivos/rijndaelanimation.html) - Animation of how AES (Rijndael) works.
 - [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - Symmetric-key block cipher, designed in 1993 by Bruce Schneier. Notable features of the design include key-dependent S-boxes and a highly complex key schedule.
 
 #### Asymmetric encryption
